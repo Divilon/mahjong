@@ -16,8 +16,8 @@
     </modules>
     
     <scm>
-        <connection>scm:git:ssh://git@github.com/dimasmith/mahjong.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/dimasmith/mahjong.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/Divilon/mahjong.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/Divilon/mahjong.git</developerConnection>
         <url>https://github.com/dimasmith/mahjong</url>
     </scm>
             
