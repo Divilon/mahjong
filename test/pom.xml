@@ -24,9 +24,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
+      <groupId>net.anatolich.mahjong</groupId>
       <artifactId>game-api</artifactId>
-      <version>${project.version}</version>
+      <version>0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>
